@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1ccefb64c62ff8d42aff958748c3f330
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Baloo 2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0fe25ea2b31cb549a906f447e6bb759, type: 3}
+  - {fileID: 12800000, guid: f0ac094609688eb479439089dcfece0c, type: 3}
+  - {fileID: 12800000, guid: 18acb7a89d939874fbd997a2d410f67a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
